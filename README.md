@@ -1,11 +1,12 @@
 ### Brain Tumor Classification
 
 This project aims to classify brain tumor images into four categories: glioma, meningioma, no tumor, and pituitary. The dataset consists of MRI scans provided in separate training and testing folders.
-Purpose
+
+### Purpose
 
 The primary objective of this project is to develop a deep learning model capable of accurately classifying brain tumors from MRI images. This can assist in early diagnosis and treatment planning, ultimately improving patient outcomes.
-Methodologies
-Data Preparation
+## Methodologies
+### Data Preparation
 
     Data Extraction: Extract the dataset from a zip file to a temporary directory.
     Image Processing: Read and resize the images to a uniform size of 128x128 pixels, and convert them to grayscale.
