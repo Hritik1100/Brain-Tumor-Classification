@@ -35,6 +35,7 @@ Libraries Used
 Results
 
 The training history is visualized using loss and accuracy plots to analyze model performance over epochs. The trained model is then evaluated on the test dataset to determine its accuracy.
+
 Conclusion
 
 This project demonstrates the use of deep learning techniques for medical image classification. The developed CNN model shows promising results in classifying brain tumors, which can be further improved with more data and advanced techniques.
