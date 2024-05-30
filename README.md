@@ -1,4 +1,4 @@
-Brain Tumor Classification
+### Brain Tumor Classification
 
 This project aims to classify brain tumor images into four categories: glioma, meningioma, no tumor, and pituitary. The dataset consists of MRI scans provided in separate training and testing folders.
 Purpose
